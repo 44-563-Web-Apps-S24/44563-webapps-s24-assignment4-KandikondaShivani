@@ -39,3 +39,26 @@
 .sonia {
     color: darkgreen;
 }
+
+.table{
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.table th, .table td{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.table th{
+    background-color: cyan;
+    color: crimson;
+}
+
+.table tbody tr:nth-child(even){
+    background-color: dimgray;
+}
+
