@@ -109,3 +109,26 @@
     filter: blur(1px);
     border: 1px solid #000;
 }
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+}
+
+.footer-navbar a i {
+    margin-right: 8px;
+}
