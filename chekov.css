@@ -62,3 +62,50 @@
     background-color: dimgray;
 }
 
+.marina:hover {
+    color: darkmagenta;
+    background-color: plum;
+    text-shadow: 3px 3px 3px lemonchiffon;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.voitski:hover{
+    color: crimson;
+    background-color: aquamarine;
+    text-shadow: 3px 3px 3px burlywood;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.astroff:hover{
+    color: darkorange;
+    background-color: bisque;
+    text-shadow: 3px 3px 3px khaki;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.serebrakoff:hover{
+    color: deeppink;
+    background-color: lightgrey;
+    text-shadow: 3px 3px 3px gold;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.telegin:hover{
+    color: green;
+    background-color: lavenderblush;
+    text-shadow: 3px 3px 3px darkseagreen;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.sonia:hover{
+    color: brown;
+    background-color: cadetblue;
+    text-shadow: 3px 3px 3px lightblue;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
